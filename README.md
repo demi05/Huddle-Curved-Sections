@@ -92,9 +92,9 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-I learned quite a lot during this challenge. Some of the things I learnt are:
--How to postition images using relative, absolute then bottom, top
--How to implement transitions
+I learned quite a lot during this challenge. Some of the things I learnt are:<br>
+-How to postition images using relative, absolute then bottom, top<br>
+-How to implement transitions<br>
 -The fact that font sizes can be used on the <i> tag
 ### Continued development
 
